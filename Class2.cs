@@ -9,5 +9,9 @@ namespace TestProject2
     internal class Class2
     {
         Console.WriteLine("Hello, World one!");
+        Console.WriteLine("Hello, World one!");
+        Console.WriteLine("Hello, World one!"); 
+        Console.WriteLine("Hello, World one!"); 
+        Console.WriteLine("Hello, World one!");
     }
 }
